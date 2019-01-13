@@ -3,7 +3,14 @@ import os
 import numpy as np
 
 # this array will hold the persons' names to identify who the person is after recognition
-subjects = ["", "Duda", "Merkel", "Obama", "Trump", "Putin"]
+subjects = ["", "Macron", "Merkel", "Obama", "May", "Putin"]
+
+
+# Converts an image to Grayscale
+# Grayscale formula: Y' = 0.299 R + 0.587 G + 0.114 B  -- source: https://en.wikipedia.org/wiki/Grayscale#Converting_color_to_grayscale
+def rgb2gray(rgb):
+    return np.dot(rgb[...,:3], [0.299, 0.587, 0.114])
+
 
 
 # ### Prepare training data ###
@@ -11,7 +18,14 @@ subjects = ["", "Duda", "Merkel", "Obama", "Trump", "Putin"]
 # detect face using OpenCV
 def detect_face(img):
     # convert the test image to grayscale as opencv face detector works with gray images
-    gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
+
+    # This is the easy way of converting to grascale using cv2
+    #gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
+
+    # Convert to grayscale using grayscale formula
+    gray = rgb2gray(img)
+    # Convert float64 to uint8 because cv2 requires unisigned integer.
+    gray = np.array(gray, dtype='uint8')
 
     # load OpenCV face detector, with open cv haar classifier
     face_cascade = cv2.CascadeClassifier('cascades/data/haarcascade_frontalface_alt2.xml')
@@ -139,8 +153,11 @@ def recognize(test_img):
     # draw rectangle around face
     draw_rectangle(img, rect)
     # write the name
-    draw_text(img, label_text, rect[0], rect[1] - 5)
-
+    if confidence > 45:
+        draw_text(img, label_text + "  conf: " + str(("%.2f" % confidence)), rect[0], rect[1] - 5)
+    else:
+        draw_text(img, "?", rect[0], rect[1] - 5)
+    print(label_text + "  conf: " + str(("%.2f" % confidence)))
     return img
 
 
