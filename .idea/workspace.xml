@@ -1,51 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eff2f58a-5bef-4961-afdb-6ada219d2af3" name="Default Changelist" comment="">
+    <list default="true" id="eff2f58a-5bef-4961-afdb-6ada219d2af3" name="Default Changelist" comment="Mirc">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/person1/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/person1/1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/person1/10.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/person1/10.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/person1/11.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/person1/11.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/person1/12.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/person1/12.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/person1/13.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/person1/13.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/person1/14.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/person1/15.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/person1/16.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/person1/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/person1/2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/person1/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/person1/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/person1/4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/person1/5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/person1/5.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/person1/6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/person1/6.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/person1/7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/person1/7.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/person1/8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/person1/8.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/person1/9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/person1/9.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/person2/15.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/person2/15.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/person2/16.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/person2/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/person3/10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/person3/11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/person3/14.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/person3/15.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/person3/16.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/person3/7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/person4/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/person4/1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/person4/10.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/person4/10.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/person4/11.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/person4/12.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/person4/12.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/person4/13.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/person4/13.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/person4/14.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/person4/14.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/person4/15.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/person4/15.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/person4/16.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/person4/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/person4/2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/person4/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/person4/3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/person4/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/person4/4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/person4/5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/person4/5.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/person4/6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/person4/6.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/person4/7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/person4/7.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/person4/8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/person4/8.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/person4/9.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/recog.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/recog.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test-data/test2.jpg" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -58,8 +16,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/recog.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2127">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="340">
+              <caret line="22" column="14" lean-forward="true" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -109,7 +67,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -142,6 +99,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -211,7 +169,14 @@
       <option name="project" value="LOCAL" />
       <updated>1546796719957</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Mirc">
+      <created>1547413007072</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1547413007072</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TodoView">
@@ -225,8 +190,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17913593" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17913593" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -237,7 +203,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32936078" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32936078" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32936078" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32936078" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -287,7 +253,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="Mirc" />
+    <option name="LAST_COMMIT_MESSAGE" value="Mirc" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/FaceRecognition.py" />
@@ -300,8 +267,8 @@
     <entry file="file://$PROJECT_DIR$/src/FaceRecognition.pyproj" />
     <entry file="file://$PROJECT_DIR$/src/recog.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2127">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="340">
+          <caret line="22" column="14" lean-forward="true" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
         </state>
       </provider>
     </entry>

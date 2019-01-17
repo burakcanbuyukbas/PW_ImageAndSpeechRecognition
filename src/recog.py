@@ -9,7 +9,7 @@ subjects = ["", "Macron", "Merkel", "Obama", "May", "Putin"]
 # Converts an image to Grayscale
 # Grayscale formula: Y' = 0.299 R + 0.587 G + 0.114 B  -- source: https://en.wikipedia.org/wiki/Grayscale#Converting_color_to_grayscale
 def rgb2gray(rgb):
-    return np.dot(rgb[...,:3], [0.299, 0.587, 0.114])
+    return np.dot(rgb[..., :3], [0.299, 0.587, 0.114])
 
 
 
@@ -112,10 +112,10 @@ face_recognizer = cv2.face.LBPHFaceRecognizer_create()
 # Alternatives:
 
 # EigenFaces Method for recognition
-# face_recognizer = cv2.face.EigenFaceRecognizer_create()
+#face_recognizer = cv2.face.EigenFaceRecognizer_create()
 
 # Fisher Method for recognition
-# face_recognizer = cv2.face.FisherFaceRecognizer_create()
+#face_recognizer = cv2.face.FisherFaceRecognizer_create()
 
 
 # Now that we have initialized our face recognizer and we also have prepared our training data, it's time to train the face recognizer. We will do that by calling the `train(faces-vector, labels-vector)` method of face recognizer.
